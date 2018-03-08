@@ -1,0 +1,82 @@
+    1  git add meal-log.txt
+    2  git add manhattan-zoo
+    3  mkdir manhattan-zoo
+    4  cd manhattan-zoo
+    5  pwd
+    6  git init
+    7  touch meal-log.txt
+    8  git add meal-log.txt
+    9  git commit -m "create meal log"
+   10  git config --global user.email "y.ibrahim2@share.epsb.ca
+   11  git config --global user.name "Yaqub Ibrahim"
+   12  git commit -m "add meal log"
+   13  git config --global user.email "y.ibrahim2@share.epsb.ca"
+   14  git commit -m "add meal log"
+   15  git commit -m "add info about sea lions and lemurs meal plans"
+   16  nano meal-log.txt
+   17  git add manhattan-zoo
+   18  git commit -m "add info about california sea lions and ring-tailed lemur meal plans
+   19  [A[Bzx
+   20  git ocmmit -m "add infor about california sea lions and ring-tailed lemur meal plans"
+   21  git commit -m "add infor about california sea lions and ring-tailed lemur meal plans"
+   22  nano
+   23  nano meal-log.txt
+   24  git add meal.txt
+   25  git add meal-log.txt
+   26  git commit -m "add long tailed chinchillas meal plan"
+   27  git log
+   28  nano meal-log.txt
+   29  git add meal-log.txt
+   30  git commit -m "add info about poison dart frog meal plan"
+   31  nano meal-log.txt
+   32  git add meal-log.txt
+   33  git commit -m "add info about western lowland gorilla meal plan"
+   34  touch commit-history.txt
+   35  git log > commit-history.txt
+   36  cat commit-history.txt 
+   37  git clone https://github.com/CompSci10/hello-world-git-assignment-Yaqub-Ibrahim.git
+   38  nano poem.txt
+   39  ls\
+   40  ls
+   41  cd hello-world-git-assignment-Yaqub-Ibrahim
+   42  ls
+   43  nano poem.txt
+   44  git branch myPoem
+   45  git branch
+   46  git checkout myPoem
+   47  git branch
+   48  nano poem.txt
+   49  ls
+   50  git add
+   51  git add poem.txt
+   52  git commit -m"fix poem to how it's supposed to be and replace lion with Kangaroo and removed all instances of TURNIP"
+   53  nano poem.txt
+   54  git add poem.txt
+   55  git commit -m "replace all instances of Shel Silverstein with Yaqub Ibrahim"
+   56  git tag
+   57  git tag-l
+   58  git tag version2
+   59  git show
+   60  cd hello-world-git-assignment
+   61  cd hello-world-git-assignment-Yaqub-Ibrahim
+   62  git branch
+   63  nano poem.txt
+   64  git tag -a version2 "Improved version"
+   65  git tag -a version2 -m "Improved version"
+   66  git tag -m "Improved version"
+   67  git log
+   68  git tag -a version2 -m "Improved version"
+   69  git tag -m "Improved version"
+   70  git checkout master
+   71  git merge myPorm
+   72  git branch
+   73  git merge myPoem
+   74  git branch
+   75  nano poem.txt
+   76  git log
+   77  git reset 578249e
+   78  git log
+   79  git add poem.txt
+   80  git commit -m"revert all work I complete on poem.txt"
+   81  terminal history > history.txt
+   82  history > history.txt
